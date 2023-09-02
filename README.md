@@ -16,6 +16,7 @@ modal pero con los datos llenos de la celda seleccionada y de esta forma me perm
 MODIFICAR o ELIMINAR
 8. Para el botón de eliminar deberá de crear una función con java script que me
 permita cancelar o continuar con la eliminación
-Nota: el funcionamiento puede variar según usted considere prudente, el diseño queda a
-![image](https://github.com/dejosue/Tare-3-PHP/assets/112791712/2e0cfaae-ea3a-4886-a1e3-c30dade88a8f)
+![image](https://github.com/dejosue/Tare-3-PHP/assets/112791712/6198bf60-9dc6-4ddb-89da-ccfae829e8b7)
+
+
 
